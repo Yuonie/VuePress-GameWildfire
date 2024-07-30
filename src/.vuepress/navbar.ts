@@ -10,6 +10,6 @@ export default navbar([
   {
     text: "游戏攻略",
     icon: "gamepad",
-    link: "game/",
+    link: "/apidoc/game/",
   },
 ]);

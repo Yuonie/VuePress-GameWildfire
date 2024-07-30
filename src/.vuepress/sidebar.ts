@@ -15,6 +15,14 @@ export default sidebar({
         "README.md",
         "rule1.md",
         "rule2.md",
+        {
+          text: "游戏攻略",
+          icon: "laptop-code",
+          prefix: "game/",
+          children: [
+            "README.md",
+          ],
+        },
         // {
         //   text: "接口提供方-供应商",
         //   icon: "book",
@@ -26,12 +34,6 @@ export default sidebar({
         //   children: "structure",
         // },
       ],
-    },
-    {
-      text: "游戏攻略",
-      icon: "laptop-code",
-      prefix: "game/",
-      children: "structure",
     },
     // {
     //   text: "文档",

@@ -1,1 +1,1 @@
-export const sidebarData = {"/game/":[""]};
+export const sidebarData = {};
