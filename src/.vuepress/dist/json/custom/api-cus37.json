@@ -1,0 +1,64 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "string",
+        "desc": "订单编号"
+      },
+      {
+        "name": "remark",
+        "must": false,
+        "type": "string",
+        "desc": "备注"
+      },
+      {
+        "name": "imageList",
+        "must": true,
+        "type": "list",
+        "desc": "删除的图片列表",
+        "fields": [
+          {
+            "name": "imageId",
+            "must": true,
+            "type": "string",
+            "desc": "图片id，上游唯一标识，url为空时必传"
+          },
+          {
+            "name": "url",
+            "must": true,
+            "type": "string",
+            "desc": "图片地址，imageId为空时必传"
+          }
+        ]
+      },
+      {
+        "name": "deleteTime",
+        "must": false,
+        "type": "string",
+        "desc": "图片删除时间，格式：yyyy-MM-dd HH:mm:ss"
+      }
+    ],
+    "response":[
+        {
+          "name":"code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果":true
+        },
+        {
+          "name":"message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name":"data",
+          "must": true,
+          "type": "Object",
+          "desc": ""    
+        }
+      ]
+  }
+  

@@ -1,0 +1,139 @@
+{
+  "desc":"同步照片接口JSON",
+  "params": [
+    {
+      "name": "orderNo",
+      "must": true,
+      "type": "String",
+      "desc": "订单流水号"
+    },
+    {
+      "name": "carNo",
+      "must": false,
+      "type": "String",
+      "desc": "车牌号"
+    },
+    {
+      "name": "fileList",
+      "must": true,
+      "type": "Object",
+      "desc": "文件列表",
+      "fields": [
+        {
+          "name": "imageID",
+          "must": true,
+          "type": "String",
+          "desc": "任务ID"
+        },
+        {
+          "name": "imageName",
+          "must": true,
+          "type": "String",
+          "desc": "带格式的名称"
+        },
+        {
+          "name": "imagesUrl",
+          "must": true,
+          "type": "String",
+          "desc": "图片地址"
+        },
+        {
+          "name": "scene",
+          "must": true,
+          "type": "Integer",
+          "desc": "6-到达现场，8-作业中，9-作业完成，12-半途放空，13-现场放空"
+        },
+        {
+          "name": "time",
+          "must": true,
+          "type": "String",
+          "desc": "拍摄时间(格式：yyyyMM-dd HH:mm:ss)"
+        },
+        {
+          "name": "fileType",
+          "must": true,
+          "type": "String",
+          "desc": "文件类型PHOTO,AUDIO"
+        },
+        {
+          "name": "fileIndex",
+          "must": false,
+          "type": "Integer",
+          "desc": "图片的次序"
+        },
+        {
+          "name": "photoFlag",
+          "must": false,
+          "type": "String",
+          "desc": "上传标识0:手工上传,1:系统上传"
+        },
+        {
+          "name": "lat",
+          "must": true,
+          "type": "String",
+          "desc": "纬度"
+        },
+        {
+          "name": "lng",
+          "must": true,
+          "type": "String",
+          "desc": "经度"
+        },
+        {
+          "name": "address",
+          "must": false,
+          "type": "String",
+          "desc": "地址"
+        },
+        {
+          "name": "fileSize",
+          "must": true,
+          "type": "String",
+          "desc": "照片大小（KB）"
+        }
+      ]
+    },
+    {
+      "name": "uploadtime",
+      "must": true,
+      "type": "String",
+      "desc": "上传时间，需定义时间格式：YYYY-MM-DD HH24:MI:SS"
+    }
+  ],
+  "response":[
+    {
+      "name":"code",
+      "must": true,
+      "type": "Integer",
+      "desc": "",
+      "link_请求结果":true
+    },
+    {
+      "name":"message",
+      "must": true,
+      "type": "String",
+      "desc": "返回信息"
+    },
+    {
+      "name":"data",
+      "must": true,
+      "type": "Object",
+      "desc": "",
+      "fields": [
+        {
+          "name": "Id",
+          "must": true,
+          "type": "文件唯一标识",
+          "desc": "任务ID"
+        },
+        {
+          "name": "Name",
+          "must": true,
+          "type": "String",
+          "desc": "对应上游的唯一标识"
+        }
+      ]
+
+    }
+  ]
+}

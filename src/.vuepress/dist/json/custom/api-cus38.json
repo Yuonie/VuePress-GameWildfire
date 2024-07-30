@@ -1,0 +1,56 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "String",
+        "desc": "救援单号"
+      },
+      {
+        "name": "replyMessage",
+        "must": true,
+        "type": "String",
+        "desc": "回复信息"
+      },
+      {
+        "name": "replyTime",
+        "must": true,
+        "type": "String",
+        "desc": "回复时间"
+      },
+      {
+        "name": "replyUser",
+        "must": false,
+        "type": "String",
+        "desc": "回复人"
+      },
+      {
+        "name": "replyStatus",
+        "must": true,
+        "type": "String",
+        "desc": "催单状态 0-未处理 1-已处理"
+      }
+    ],
+    "response":[
+        {
+          "name":"code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果":true
+        },
+        {
+          "name":"message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name":"data",
+          "must": true,
+          "type": "Object",
+          "desc": ""    
+        }
+      ]
+  }
+  

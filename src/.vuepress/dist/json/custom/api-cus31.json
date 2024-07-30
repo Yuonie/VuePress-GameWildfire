@@ -1,0 +1,56 @@
+{
+    "params": [
+      {
+        "name": "operateType",
+        "must": true,
+        "type": "String",
+        "desc": "操作类型。N-新增,Y-审核,C-作废"
+      },
+      {
+        "name": "rescueVehicle",
+        "must": true,
+        "type": "String",
+        "desc": "救援车车牌号"
+      },
+      {
+        "name": "vehicleType",
+        "must": true,
+        "type": "String",
+        "desc": "车辆类型,见附录车辆类型"
+      },
+      {
+        "name": "serviceList",
+        "must": true,
+        "type": "String",
+        "desc": "车辆的服务类型。用逗号隔开：1,2,3,4,5"
+      },
+      {
+        "name": "timestamp",
+        "must": true,
+        "type": "String",
+        "desc": "时间(格式：yyyy-MM-dd HH:mm:ss)"
+      }
+    ],
+    "response":[
+      {
+        "name":"code",
+        "must": true,
+        "type": "Integer",
+        "desc": "",
+        "link_请求结果":true
+      },
+      {
+        "name":"message",
+        "must": true,
+        "type": "String",
+        "desc": "返回信息"
+      },
+      {
+        "name":"data",
+        "must": true,
+        "type": "Object",
+        "desc": ""    
+      }
+    ]
+  }
+  

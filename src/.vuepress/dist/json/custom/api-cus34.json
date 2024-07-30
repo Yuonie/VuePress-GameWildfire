@@ -1,0 +1,141 @@
+{
+    "desc":"订单数据回写",
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "String",
+        "desc": "订单流水号"
+      },
+      {
+        "name": "serviceType",
+        "must": false,
+        "type": "String",
+        "desc": "服务项目"
+      },
+      {
+        "name": "reserved",
+        "must": false,
+        "type": "String",
+        "desc": "是否预约单 0-否，1-是"
+      },
+      {
+        "name": "time",
+        "must": false,
+        "type": "String",
+        "desc": "预约时间，是预约单则必填预约时间(格式：yyyyMM-dd HH:mm:ss)"
+      },
+      {
+        "name": "rescueAddress",
+        "must": false,
+        "type": "String",
+        "desc": "事故地点地址"
+      },
+      {
+        "name": "rescueLng",
+        "must": false,
+        "type": "Double",
+        "desc": "事故地点经度"
+      },
+      {
+        "name": "rescueLat",
+        "must": false,
+        "type": "Double",
+        "desc": "事故地点纬度"
+      },
+      {
+        "name": "destAddress",
+        "must": false,
+        "type": "String",
+        "desc": "拖车目的地地址（当推修了汽修公司，即为汽修公司地址）"
+      },
+      {
+        "name": "destLng",
+        "must": false,
+        "type": "Double",
+        "desc": "拖车目的地经度"
+      },
+      {
+        "name": "destLat",
+        "must": false,
+        "type": "Double",
+        "desc": "拖车目的地纬度"
+      },
+      {
+        "name": "arriveMiles",
+        "must": false,
+        "type": "Double",
+        "desc": "前往里程(公⾥)"
+      },
+      {
+        "name": "towingMiles",
+        "must": false,
+        "type": "Double",
+        "desc": "拖车里程数(公⾥)"
+      },
+      {
+        "name": "trailerWheel",
+        "must": false,
+        "type": "Integer",
+        "desc": "辅助轮数量"
+      },
+      {
+        "name": "abTollFee2",
+        "must": false,
+        "type": "Double",
+        "desc": "路桥费(元)"
+      },
+      {
+        "name": "addTollFee",
+        "must": false,
+        "type": "Double",
+        "desc": "其他附加费用"
+      },
+      {
+        "name": "orderRemark",
+        "must": false,
+        "type": "String",
+        "desc": "订单备注"
+      },
+      {
+        "name": "paymentMethod",
+        "must": false,
+        "type": "String",
+        "desc": "支付方式 1-挂账，2-现金，3-不详"
+      },
+      {
+        "name": "chargeAmt",
+        "must": false,
+        "type": "Double",
+        "desc": "现金支付金额(元)"
+      },
+      {
+        "name": "creditAmt",
+        "must": false,
+        "type": "Double",
+        "desc": "挂账金额(元)"
+      }
+    ],
+    "response":[
+        {
+          "name":"code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果":true
+        },
+        {
+          "name":"message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name":"data",
+          "must": true,
+          "type": "Object",
+          "desc": ""    
+        }
+      ]
+  }
+  

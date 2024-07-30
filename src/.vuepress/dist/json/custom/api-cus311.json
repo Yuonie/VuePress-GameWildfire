@@ -1,0 +1,81 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "String",
+        "desc": "救援单号"
+      }
+    ],
+    "response": [
+      {
+        "name": "code",
+        "must": true,
+        "type": "Integer",
+        "desc": "返回码，见附录请求返回码"
+      },
+      {
+        "name": "message",
+        "must": true,
+        "type": "String",
+        "desc": "返回信息"
+      },
+      {
+        "name": "data",
+        "must": true,
+        "type": "Object",
+        "desc": "返回数据",
+        "fields": [
+          {
+            "name": "scene",
+            "must": true,
+            "type": "Integer",
+            "desc": "场景6-到达现场，8-作业中，9-作业完成，12-半途放空，13-现场放空"
+          },
+          {
+            "name": "taskID",
+            "must": true,
+            "type": "String",
+            "desc": "任务照片ID"
+          },
+          {
+            "name": "fileIndex",
+            "must": true,
+            "type": "Integer",
+            "desc": "顺序"
+          },
+          {
+            "name": "taskName",
+            "must": true,
+            "type": "String",
+            "desc": "照片名称"
+          },
+          {
+            "name": "taskMemo",
+            "must": true,
+            "type": "String",
+            "desc": "照片备注"
+          },
+          {
+            "name": "isRequired",
+            "must": true,
+            "type": "Boolean",
+            "desc": "是否必拍"
+          },
+          {
+            "name": "templeteUrl",
+            "must": true,
+            "type": "String",
+            "desc": "照片模板Url"
+          },
+          {
+            "name": "subType",
+            "must": true,
+            "type": "String",
+            "desc": "照片子类型ID"
+          }
+        ]
+      }
+    ]
+  }
+  

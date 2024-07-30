@@ -1,0 +1,87 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "String",
+        "desc": "订单号"
+      },
+      {
+        "name": "orderStatus",
+        "must": true,
+        "type": "String",
+        "desc": "订单状态",
+        "link_订单状态":true
+      },
+      {
+        "name": "carNo",
+        "must": false,
+        "type": "String",
+        "desc": "救援车牌号"
+      },
+      {
+        "name": "driverName",
+        "must": false,
+        "type": "String",
+        "desc": "救援师傅"
+      },
+      {
+        "name": "driverPhone",
+        "must": false,
+        "type": "String",
+        "desc": "救援师傅手机号"
+      },
+      {
+        "name": "processMode",
+        "must": true,
+        "type": "String",
+        "desc": "订单执行模式。ONLINE-线上，OFFLINE-线下。"
+      },
+      {
+        "name": "time",
+        "must": true,
+        "type": "String",
+        "desc": "状态发生时间节点(格式：yyyyMM-dd HH:mm:ss)"
+      },
+      {
+        "name": "workflag",
+        "must": true,
+        "type": "Intager",
+        "desc": "取消类型，取消、放空单据必填11-出发前取消，12-半途放空，13-现场放空"
+      },
+      {
+        "name": "reason",
+        "must": true,
+        "type": "String",
+        "desc": "取消原因，见附件取消原因"
+      },
+      {
+        "name": "remark",
+        "must": false,
+        "type": "String",
+        "desc": "取消备注"
+      }
+    ],
+    "response":[
+        {
+          "name":"code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果":true
+        },
+        {
+          "name":"message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name":"data",
+          "must": true,
+          "type": "Object",
+          "desc": ""    
+        }
+      ]
+  }
+  

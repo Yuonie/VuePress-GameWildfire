@@ -1,0 +1,91 @@
+{
+  "params": [
+    {
+      "name": "operateType",
+      "must": true,
+      "type": "String",
+      "desc": "操作类型。N-新增,Y-审核,C-作废"
+    },
+    {
+      "name": "rescueName",
+      "must": true,
+      "type": "String",
+      "desc": "救援师傅姓名"
+    },
+    {
+      "name": "rescuePhone",
+      "must": true,
+      "type": "String",
+      "desc": "救援师傅电话"
+    },
+    {
+      "name": "sex",
+      "must": true,
+      "type": "String",
+      "desc": "性别。0-女，1-男"
+    },
+    {
+      "name": "identity",
+      "must": true,
+      "type": "String",
+      "desc": "身份证号码"
+    },
+    {
+      "name": "identityPhoto_1",
+      "must": false,
+      "type": "String",
+      "desc": "身份证正面照片，照片链接url"
+    },
+    {
+      "name": "identityPhoto_2",
+      "must": false,
+      "type": "String",
+      "desc": "身份证反面照片，照片链接url"
+    },
+    {
+      "name": "licenseType",
+      "must": true,
+      "type": "String",
+      "desc": "驾照类型A1,A2,A3,B1,B2,C1,C2"
+    },
+    {
+      "name": "LicensePhoto",
+      "must": false,
+      "type": "String",
+      "desc": "驾照照片，照片链接url"
+    },
+    {
+      "name": "rescuePersonPhoto",
+      "must": true,
+      "type": "String",
+      "desc": "师傅正面照片，照片链接url"
+    },
+    {
+      "name": "time",
+      "must": true,
+      "type": "String",
+      "desc": "时间(格式：yyyyMM-dd HH:mm:ss)"
+    }
+  ],
+  "response": [
+    {
+      "name": "code",
+      "must": true,
+      "type": "Integer",
+      "desc": "",
+      "link_请求结果": true
+    },
+    {
+      "name": "message",
+      "must": true,
+      "type": "String",
+      "desc": "返回信息"
+    },
+    {
+      "name": "data",
+      "must": true,
+      "type": "Object",
+      "desc": ""
+    }
+  ]
+}

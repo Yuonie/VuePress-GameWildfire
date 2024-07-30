@@ -1,0 +1,87 @@
+{
+  "params": [
+    {
+      "name": "orderNo",
+      "must": true,
+      "type": "String",
+      "desc": "订单号"
+    },
+    {
+      "name": "billNo",
+      "must": false,
+      "type": "String",
+      "desc": "服务商订单号"
+    },
+    {
+      "name": "points",
+      "must": true,
+      "type": "List",
+      "desc": "具体参数定义如下",
+      "fields": [
+        {
+          "name": "longitude",
+          "must": true,
+          "type": "String",
+          "desc": "经度"
+        },
+        {
+          "name": "latitude",
+          "must": true,
+          "type": "String",
+          "desc": "纬度"
+        },
+        {
+          "name": "time",
+          "must": true,
+          "type": "String",
+          "desc": "当前位置时间"
+        },
+        {
+          "name": "carNo",
+          "must": false,
+          "type": "String",
+          "desc": "车牌号"
+        },
+        {
+          "name": "name",
+          "must": false,
+          "type": "String",
+          "desc": "师傅姓名"
+        },
+        {
+          "name": "phone",
+          "must": true,
+          "type": "String",
+          "desc": "师傅手机号"
+        },
+        {
+          "name": "address",
+          "must": true,
+          "type": "String",
+          "desc": "地址"
+        }
+      ]
+    }
+  ],
+  "response":[
+    {
+      "name":"code",
+      "must": true,
+      "type": "Integer",
+      "desc": "",
+      "link_请求结果":true
+    },
+    {
+      "name":"message",
+      "must": true,
+      "type": "String",
+      "desc": "返回信息"
+    },
+    {
+      "name":"data",
+      "must": true,
+      "type": "Object",
+      "desc": ""    
+    }
+  ]
+}

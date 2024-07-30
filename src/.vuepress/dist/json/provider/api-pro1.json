@@ -1,0 +1,145 @@
+{
+  "params": [
+    {
+      "name": "orderNo",
+      "must": true,
+      "type": "String",
+      "desc": "订单号"
+    },
+    {
+      "name": "caseCode",
+      "must": false,
+      "type": "String",
+      "desc": "报案号"
+    },
+    {
+      "name": "linkmanName",
+      "must": false,
+      "type": "String",
+      "desc": "联系人"
+    },
+    {
+      "name": "linkmanPhone",
+      "must": true,
+      "type": "String",
+      "desc": "联系人手机号"
+    },
+    {
+      "name": "carNo",
+      "must": false,
+      "type": "String",
+      "desc": "⻋牌号"
+    },
+    {
+      "name": "carFrameNumber",
+      "must": false,
+      "type": "String",
+      "desc": "车架号"
+    },
+    {
+      "name": "reportDate",
+      "must": false,
+      "type": "String",
+      "desc": "报案时间"
+    },
+    {
+      "name": "serviceType",
+      "must": true,
+      "type": "String",
+      "desc": "服务项目"
+    },
+    {
+      "name": "rescueAddr",
+      "must": true,
+      "type": "String",
+      "desc": "救援地点"
+    },
+    {
+      "name": "longitude",
+      "must": false,
+      "type": "String",
+      "desc": "救援地址经度"
+    },
+    {
+      "name": "latitude",
+      "must": false,
+      "type": "String",
+      "desc": "救援地址纬度"
+    },
+    {
+      "name": "chargeType",
+      "must": true,
+      "type": "String",
+      "desc": "是否付费(1-挂账 2-现金支付3-不详)"
+    },
+    {
+      "name": "destinationAddr",
+      "must": false,
+      "type": "String",
+      "desc": "目的地地址"
+    },
+    {
+      "name": "destinationLongitude",
+      "must": false,
+      "type": "String",
+      "desc": "目的地经度"
+    },
+    {
+      "name": "destinationLatitude",
+      "must": false,
+      "type": "String",
+      "desc": "目的地纬度"
+    },
+    {
+      "name": "serviceStandard",
+      "must": false,
+      "type": "String",
+      "desc": "免拖里程"
+    },
+    {
+      "name": "remark",
+      "must": false,
+      "type": "String",
+      "desc": "备注"
+    },
+    {
+      "name": "companyPlate",
+      "must": false,
+      "type": "String",
+      "desc": "订单来源 中国平安、其他"
+    },
+    {
+      "name": "driverPhone",
+      "must": false,
+      "type": "String",
+      "desc": "推荐师傅手机号"
+    },
+    {
+      "name": "driverName",
+      "must": false,
+      "type": "String",
+      "desc": "推荐师傅姓名"
+    }
+  ],
+  "response": [
+    {
+      "name": "code",
+      "must": true,
+      "type": "Integer",
+      "desc": "",
+      "link_请求结果": true
+    },
+    {
+      "name": "message",
+      "must": true,
+      "type": "String",
+      "desc": "返回信息"
+    },
+    {
+      "name": "data",
+      "must": true,
+      "type": "Object",
+      "desc": ""
+    }
+  ]
+}

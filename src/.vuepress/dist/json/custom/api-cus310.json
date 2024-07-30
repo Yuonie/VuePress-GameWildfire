@@ -1,0 +1,82 @@
+{
+    "params": [
+      {
+        "name": "rescuePersonList",
+        "must": true,
+        "type": "List",
+        "desc": "具体参数定义如下",
+        "fields": [
+          {
+            "name": "personTel",
+            "must": true,
+            "type": "String",
+            "desc": "师傅手机号"
+          },
+          {
+            "name": "lng",
+            "must": true,
+            "type": "String",
+            "desc": "经度"
+          },
+          {
+            "name": "lat",
+            "must": true,
+            "type": "String",
+            "desc": "纬度"
+          },
+          {
+            "name": "address",
+            "must": true,
+            "type": "String",
+            "desc": "地址"
+          },
+          {
+            "name": "appTime",
+            "must": true,
+            "type": "String",
+            "desc": "当前位置时间"
+          },
+          {
+            "name": "carNo",
+            "must": false,
+            "type": "String",
+            "desc": "车牌号"
+          },
+          {
+            "name": "name",
+            "must": false,
+            "type": "String",
+            "desc": "师傅姓名"
+          },
+          {
+            "name": "workerCoverService",
+            "must": true,
+            "type": "String",
+            "desc": "服务项目，用逗号隔开"
+          }
+        ]
+      }
+    ],
+    "response":[
+        {
+          "name":"code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果":true
+        },
+        {
+          "name":"message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name":"data",
+          "must": true,
+          "type": "Object",
+          "desc": ""    
+        }
+      ]
+  }
+  

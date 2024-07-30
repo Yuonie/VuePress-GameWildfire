@@ -1,0 +1,93 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "string",
+        "desc": "订单号"
+      },
+      {
+        "name": "serviceType",
+        "must": false,
+        "type": "string",
+        "desc": "服务类型",
+        "link_服务项目":true
+      },
+      {
+        "name": "rescueAddr",
+        "must": false,
+        "type": "string",
+        "desc": "事故地点地址"
+      },
+      {
+        "name": "latitude",
+        "must": false,
+        "type": "string",
+        "desc": "事故地点维度"
+      },
+      {
+        "name": "longitude",
+        "must": false,
+        "type": "string",
+        "desc": "事故地点经度"
+      },
+      {
+        "name": "destinationAddr",
+        "must": false,
+        "type": "string",
+        "desc": "拖车目的地地址（当推修了汽修公司，即为汽修公司地址）"
+      },
+      {
+        "name": "destinationLatitude",
+        "must": false,
+        "type": "string",
+        "desc": "拖车目的地纬度"
+      },
+      {
+        "name": "destinationLongitude",
+        "must": false,
+        "type": "string",
+        "desc": "拖车目的地经度"
+      },
+      {
+        "name": "reserved",
+        "must": false,
+        "type": "string",
+        "desc": "是否预约单0否"
+      },
+      {
+        "name": "reportDate",
+        "must": false,
+        "type": "string",
+        "desc": "预约时间，是预约单则必填"
+      },
+      {
+        "name": "chargeType",
+        "must": false,
+        "type": "string",
+        "desc": "支付方式 (1-挂账 2-现金支付3-不详)"
+      }
+    ],
+    "response": [
+        {
+          "name": "code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果": true
+        },
+        {
+          "name": "message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name": "data",
+          "must": true,
+          "type": "Object",
+          "desc": ""
+        }
+      ]
+  }
+  

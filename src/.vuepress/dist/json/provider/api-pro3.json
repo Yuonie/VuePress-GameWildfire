@@ -1,0 +1,62 @@
+{
+    "params": [
+      {
+        "name": "orderNo",
+        "must": true,
+        "type": "string",
+        "desc": "订单号"
+      },
+      {
+        "name": "urgeTime",
+        "must": true,
+        "type": "string",
+        "desc": "催单时间"
+      },
+      {
+        "name": "urgeContent",
+        "must": false,
+        "type": "string",
+        "desc": "催单内容"
+      },
+      {
+        "name": "urgePerson",
+        "must": false,
+        "type": "string",
+        "desc": "催单人"
+      },
+      {
+        "name": "urgePhone",
+        "must": false,
+        "type": "string",
+        "desc": "催单电话"
+      },
+      {
+        "name": "remark",
+        "must": false,
+        "type": "string",
+        "desc": "备注"
+      }
+    ],
+    "response": [
+        {
+          "name": "code",
+          "must": true,
+          "type": "Integer",
+          "desc": "",
+          "link_请求结果": true
+        },
+        {
+          "name": "message",
+          "must": true,
+          "type": "String",
+          "desc": "返回信息"
+        },
+        {
+          "name": "data",
+          "must": true,
+          "type": "Object",
+          "desc": ""
+        }
+      ]
+  }
+  
