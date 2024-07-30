@@ -2,8 +2,8 @@
 home: true
 title: 三谋：燎原火
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: /assets/image/bg.avif
-bgImageDark: /assets/image/bg.avif
+bgImage: /assets/image/bg.jpg
+bgImageDark: /assets/image/bg.jpg
 bgImageStyle:
   background-attachment: fixed
   opacity: 0.4

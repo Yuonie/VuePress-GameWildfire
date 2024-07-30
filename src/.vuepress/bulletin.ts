@@ -2,7 +2,7 @@ export const notice = [
   {
     path: "/",
     title: "同盟公告",
-    fullscreen: false,
+    fullscreen: true,
     confirm: true ,
     showOnce: false,
     content: `
@@ -31,7 +31,7 @@ export const notice = [
   {
     path: "/apidoc/",
     title: "同盟公告",
-    fullscreen: false,
+    fullscreen: true,
     confirm: true ,
     showOnce: false,
     content: `

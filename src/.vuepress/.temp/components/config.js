@@ -6,6 +6,7 @@ import FontIcon from "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire
 import Badge from "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.52_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
 import VPCard from "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.52_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
 import PDF from "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.52_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-components/lib/client/components/PDF.js";
+import BiliBili from "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.52_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-components/lib/client/components/BiliBili.js";
 
 import "C:/Work/Github/三国：谋定天下/VuePress-GameWildfire/node_modules/.pnpm/vuepress-plugin-components@2.0.0-rc.52_vuepress@2.0.0-rc.14/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
@@ -15,6 +16,7 @@ export default defineClientConfig({
     if(!hasGlobalComponent("Badge")) app.component("Badge", Badge);
     if(!hasGlobalComponent("VPCard")) app.component("VPCard", VPCard);
     if(!hasGlobalComponent("PDF")) app.component("PDF", PDF);
+    if(!hasGlobalComponent("BiliBili")) app.component("BiliBili", BiliBili);
     
   },
   setup: () => {

@@ -8,7 +8,7 @@ export default hopeTheme({
   author: {
     name: "燎原火🔥",
   },
-  darkmode: "enable",
+  darkmode: "toggle",
   print: false, //返回顶部按钮
   fullscreen: true, //全屏
   iconAssets: "fontawesome",
@@ -49,7 +49,7 @@ export default hopeTheme({
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     searchPro: true,
     components: {
-      components: ["Badge", "VPCard","PDF"],
+      components: ["Badge", "VPCard","PDF","BiliBili"],
     },
     notice,
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
