@@ -1,5 +1,5 @@
 ---
-title: 燎原火官员职能公式
+title: 燎原火官员职能公示
 index: true
 order: 2
 comment: false

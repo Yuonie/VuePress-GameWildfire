@@ -8,18 +8,19 @@ bgImageStyle:
   background-attachment: fixed
   opacity: 0.4
   #filter: blur(5px)
-heroFullScreen: true 
+heroFullScreen: true
 heroText: 燎原火文档✨
 tagline: 三国：谋定天下146区帮会
 actions:
   - text: 同盟规则
-    icon: lightbulb
+    icon: gear
     link: ./apidoc/rule1
     type: primary
 
-  - text: 💡免责声明
-    link: ./apidoc/
+  - text: S2开荒攻略
+    icon: gamepad
+    link: ./apidoc/game/
 
 copyright: false
-footer:  MIT Licensed, Copyright © 2019-present Mr.Hope
+footer: MIT Licensed, Copyright © 2019-present Mr.Hope
 ---

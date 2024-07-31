@@ -6,15 +6,9 @@ export const notice = [
     confirm: true ,
     showOnce: false,
     content: `
-      <h2>欢迎来到S2</h2>
-      战队编号：10146066874
-      <br>
-       我们S2的新盟将会是个人色彩极强的一个盟。
-       我们在S2可能很难像S1一样拿到大量的霸业名额，可能最后大家就10个名额甚至是全员逐鹿。但我们想要玩的开心，打出风采，成为赛区中一支不可被忽视的势力，
-       能够搅动赛区局势，成为<strong>燎原之火✨</strong>
-      </p>
-      <hr>
-    `,
+<div class="hint-container"><p class="hint-container-title">请盟友认真阅读</p>
+     <ul><li><strong>战队编号</strong>：<strong>10146066874</strong> （请第一时间加入战队）</li><li><strong>盟规以及S2成员名称文档</strong> <span style="color:red">请盟友优先阅读并及时操作</span> <ul><li><a href="https://docs.qq.com/doc/DZUZJSlRlaFlLUXJC">【腾讯文档】盟规</a></li><li><a href="https://docs.qq.com/sheet/DZXFVblhKeEh2bXB1?tab=BB08J2">【腾讯文档】燎原火成员 S2 名称，点击编辑S2名称</a></li></ul></li></ul><ul><li>预选州暂定为<strong>幽州</strong></li></ul><ul><li>所有盟友的初始职业，建议全部选<strong>司仓/天工/青囊</strong></li></ul></div>
+`,
     actions: [
       // {
       //   text: "Primary Action",
@@ -34,14 +28,9 @@ export const notice = [
     fullscreen: false,
     confirm: true ,
     content: `
-      <h2>欢迎来到S2</h2>
-      战队编号：10146066874
-      <br>
-       我们S2的新盟将会是个人色彩极强的一个盟。
-       我们在S2可能很难像S1一样拿到大量的霸业名额，可能最后大家就10个名额甚至是全员逐鹿。但我们想要玩的开心，打出风采，成为赛区中一支不可被忽视的势力，
-       能够搅动赛区局势，成为<strong>燎原之火✨</strong>
-      </p>
-    `,
+<div class="hint-container"><p class="hint-container-title">请盟友认真阅读</p>
+     <ul><li><strong>战队编号</strong>：<strong>10146066874</strong> （请第一时间加入战队）</li><li><strong>盟规以及S2成员名称文档</strong> <span style="color:red">请盟友优先阅读并及时操作</span> <ul><li><a href="https://docs.qq.com/doc/DZUZJSlRlaFlLUXJC">【腾讯文档】盟规</a></li><li><a href="https://docs.qq.com/sheet/DZXFVblhKeEh2bXB1?tab=BB08J2">【腾讯文档】燎原火成员 S2 名称，点击编辑S2名称</a></li></ul></li></ul><ul><li>预选州暂定为<strong>幽州</strong></li></ul><ul><li>所有盟友的初始职业，建议全部选<strong>司仓/天工/青囊</strong></li></ul></div>
+`,
     actions: [
       // {
       //   text: "Primary Action",
