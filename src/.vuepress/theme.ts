@@ -33,6 +33,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/apidoc/rule2": ["liaoyuanhuo"],
+      "/apidoc/game/file1": ["liaoyuanhuo"],
     },
   },
 

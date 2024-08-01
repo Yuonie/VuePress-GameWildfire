@@ -2,12 +2,20 @@
 <p class="hint-container-title">声明</p>
 <p>热心大神 <img src="/base/shqy.png" alt="Alt" title="热心大神" loading="lazy">提供的<strong>无需红度的稳扎稳打攻略</strong>，如有异议，别杠那就是你说得对😒。</p>
 </div>
-<h1 id="开荒细节" tabindex="-1"><a class="header-anchor" href="#开荒细节"><span>开荒细节</span></a></h1>
-<h2 id="队伍配置" tabindex="-1"><a class="header-anchor" href="#队伍配置"><span>队伍配置</span></a></h2>
-<h3 id="第一队-核心队伍" tabindex="-1"><a class="header-anchor" href="#第一队-核心队伍"><span>第一队（核心队伍）</span></a></h3>
+<h1 id="开荒策略" tabindex="-1"><a class="header-anchor" href="#开荒策略"><span>开荒策略</span></a></h1>
+<div class="hint-container tip">
+<p class="hint-container-title">前言</p>
+<p>在长时间的开荒过程中，大部分时间是在刷<strong>5级地</strong>到20级，再到刷<strong>6级地</strong>到24级的阶段。在理论上，这两个阶段中战损最低的阵容是<strong>刘袁董</strong>组合。</p>
+<p>但是为了最小化战损和资源不浪费，理想情况下应保持：</p>
 <ul>
+<li><strong>第一队（桃园）</strong>：刘关张，永远打你能打的最高级地</li>
+<li><strong>第二队（曹董袁）</strong>：负责打5、6级地，可能无法胜任7级地</li>
+</ul>
+</div>
+<h3 id="理想队伍配置" tabindex="-1"><a class="header-anchor" href="#理想队伍配置"><span>理想队伍配置</span></a></h3>
+<ol>
 <li>
-<p><strong>阵容选择</strong></p>
+<p><strong>第一队（核心队伍 - 桃园队）</strong></p>
 <ul>
 <li><strong>刘备</strong>
 <ul>
@@ -27,45 +35,7 @@
 </ul>
 </li>
 <li>
-<p><strong>角色替换</strong></p>
-<ul>
-<li>达到<strong>20级</strong>时，将<strong>关羽</strong>替换为<strong>马超</strong>，以提高整体战斗效率。</li>
-</ul>
-</li>
-<li>
-<p><strong>技能配置（替换后）</strong></p>
-<ul>
-<li><strong>刘备</strong>
-<ul>
-<li><strong>避其锐气</strong></li>
-<li><strong>披坚执锐</strong></li>
-</ul>
-</li>
-<li><strong>张飞</strong>
-<ul>
-<li><strong>水淹七军</strong></li>
-<li><strong>指点乾坤</strong></li>
-</ul>
-</li>
-<li><strong>马超</strong>
-<ul>
-<li><strong>摧坚克难</strong></li>
-<li><strong>势如破竹</strong></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>任务</strong></p>
-<ul>
-<li>永远进攻你能打的<strong>最高级土地</strong>。</li>
-</ul>
-</li>
-</ul>
-<h3 id="第二队-发展队伍" tabindex="-1"><a class="header-anchor" href="#第二队-发展队伍"><span>第二队（发展队伍）</span></a></h3>
-<ul>
-<li>
-<p><strong>阵容选择</strong></p>
+<p><strong>第二队（发展队伍 - 曹董袁）</strong></p>
 <ul>
 <li><strong>曹操</strong></li>
 <li><strong>袁绍</strong></li>
@@ -73,27 +43,36 @@
 </ul>
 </li>
 <li>
-<p><strong>任务</strong></p>
-<ul>
-<li>专注于开垦家中的<strong>5-6级土地</strong>。</li>
-<li>在后期，兵营建成后，可以挑战<strong>7级土地</strong>。</li>
-</ul>
-</li>
-</ul>
-<h3 id="第三队-辅助队伍" tabindex="-1"><a class="header-anchor" href="#第三队-辅助队伍"><span>第三队（辅助队伍）</span></a></h3>
-<ul>
-<li>
-<p><strong>阵容选择</strong></p>
+<p><strong>第三队（辅助队伍）</strong></p>
 <ul>
 <li><strong>大桥</strong></li>
 <li><strong>孙策</strong></li>
 <li><strong>周瑜</strong></li>
 </ul>
 </li>
-<li>
-<p><strong>任务</strong></p>
+</ol>
+<h3 id="理想配置的执行" tabindex="-1"><a class="header-anchor" href="#理想配置的执行"><span>理想配置的执行</span></a></h3>
 <ul>
-<li>专注于开垦家中的<strong>1-5级土地</strong>。</li>
+<li>
+<p><strong>第一队桃园（刘关张）</strong></p>
+<ul>
+<li>永远进攻你能打的<strong>最高级土地</strong>，在高战损情况下仍保持核心战力。</li>
+<li>在20级时，将关羽替换为马超，以提高效率。</li>
+<li><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</li>
+</ul>
+</li>
+<li>
+<p><strong>第二队曹董袁</strong></p>
+<ul>
+<li>专注于开垦家中的<strong>5-6级土地</strong>，任务是有效利用体力和时间。</li>
+<li>因战力限制，可能不适合打7级以上的土地。</li>
+</ul>
+</li>
+<li>
+<p><strong>角色替换与策略</strong></p>
+<ul>
+<li><strong>6级地</strong>时，将关羽替换为马超，用<strong>刘张马</strong>过渡<strong>6级地</strong>和<strong>7级地</strong>。</li>
+<li><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</li>
 </ul>
 </li>
 </ul>
@@ -102,7 +81,7 @@
 <ol>
 <li><strong>打土地</strong>
 <ul>
-<li>使用<strong>5个3级土地</strong>和<strong>1个4级土地</strong>，快速升至<strong>10级</strong>。</li>
+<li>使用<strong>5个3级士兵</strong>和<strong>1个4级士兵</strong>，快速升至<strong>10级</strong>。</li>
 </ul>
 </li>
 <li><strong>技能顺序</strong>
@@ -133,7 +112,7 @@
 <li>开启兵营后，挑战<strong>7级土地</strong>。
 <ul>
 <li>优先解锁<strong>外城7级</strong>以便补刀。</li>
-<li>如果敌方两支队伍中没有<strong>徐庶</strong>，通常<strong>24级</strong>有兵营都能打赢。</li>
+<li>如果两支队伍中没有<strong>徐庶</strong>，通常<strong>24级</strong>有兵营都能打赢。</li>
 </ul>
 </li>
 </ul>
@@ -148,11 +127,14 @@
 <li>达到<strong>30级</strong>时，装备<strong>金色装备</strong>，显著提升战斗力。</li>
 </ul>
 <h3 id="土地攻占" tabindex="-1"><a class="header-anchor" href="#土地攻占"><span>土地攻占</span></a></h3>
+<div class="hint-container info">
+<p class="hint-container-title">注意</p>
+<p><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</p>
+</div>
 <ul>
 <li>进攻<strong>8级土地</strong>，稳步扩展领地。</li>
 </ul>
 <h2 id="其他建议" tabindex="-1"><a class="header-anchor" href="#其他建议"><span>其他建议</span></a></h2>
-<h3 id="兵营策略" tabindex="-1"><a class="header-anchor" href="#兵营策略"><span>兵营策略</span></a></h3>
 <ul>
 <li>确保<strong>兵营建设</strong>，以便在需要时能迅速补充兵力。</li>
 <li>挑战<strong>7级土地</strong>时，注意兵种配置，确保对方不是<strong>徐庶</strong>，以免遭遇较大损失。</li>
