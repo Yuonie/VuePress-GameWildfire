@@ -2,142 +2,370 @@
 <p class="hint-container-title">声明</p>
 <p>热心大神 <img src="/base/shqy.png" alt="Alt" title="热心大神" loading="lazy">提供的<strong>无需红度的稳扎稳打攻略</strong>，如有异议，别杠那就是你说得对😒。</p>
 </div>
-<h1 id="开荒策略" tabindex="-1"><a class="header-anchor" href="#开荒策略"><span>开荒策略</span></a></h1>
 <div class="hint-container tip">
 <p class="hint-container-title">前言</p>
-<p>在长时间的开荒过程中，大部分时间是在刷<strong>5级地</strong>到20级，再到刷<strong>6级地</strong>到24级的阶段。在理论上，这两个阶段中战损最低的阵容是<strong>刘袁董</strong>组合。</p>
-<p>但是为了最小化战损和资源不浪费，理想情况下应保持：</p>
-<ul>
-<li><strong>第一队（桃园）</strong>：刘关张，永远打你能打的最高级地</li>
-<li><strong>第二队（曹董袁）</strong>：负责打5、6级地，可能无法胜任7级地</li>
-</ul>
+<p><strong>开荒一定要稳</strong>，下面所述所有开荒等级均为<strong>相对稳定</strong>开地等级（排除技能释放概率因素）<strong>不要</strong>被首站排行榜影响开荒节奏，只要<strong>不翻车</strong>且能打你能打过的最高级地就是胜利! 😉</p>
 </div>
-<h3 id="理想队伍配置" tabindex="-1"><a class="header-anchor" href="#理想队伍配置"><span>理想队伍配置</span></a></h3>
+<h2 id="开荒策略" tabindex="-1"><a class="header-anchor" href="#开荒策略"><span>开荒策略</span></a></h2>
+<p>赛季商店购买<strong>铜币</strong>、<strong>求贤令</strong>、<strong>紫色装备</strong>、<strong>马匹</strong>等开荒资源</p>
+<figure><img src="/攻略/image-20240801214323896.png" alt="Alt" tabindex="0" loading="lazy"><figcaption>赛季商店页面</figcaption></figure>
+<div class="hint-container warning">
+<p class="hint-container-title">购买优先级（根据实际情况自行斟酌）</p>
+<p><strong>铜币&gt;紫色装备马匹&gt;求贤令&gt;预备兵）</strong></p>
+</div>
+<h3 id="整体开地流程" tabindex="-1"><a class="header-anchor" href="#整体开地流程"><span>整体开地流程</span></a></h3>
 <ol>
-<li>
-<p><strong>第一队（核心队伍 - 桃园队）</strong></p>
-<ul>
-<li><strong>刘备</strong>
-<ul>
-<li>技能：<strong>好息师</strong></li>
-</ul>
-</li>
-<li><strong>张飞</strong>
-<ul>
-<li>技能：<strong>战八方</strong></li>
-</ul>
-</li>
-<li><strong>关羽</strong>
-<ul>
-<li>技能：<strong>水淹七军</strong></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>第二队（发展队伍 - 曹董袁）</strong></p>
-<ul>
-<li><strong>曹操</strong></li>
-<li><strong>袁绍</strong></li>
-<li><strong>董卓</strong></li>
-</ul>
-</li>
-<li>
-<p><strong>第三队（辅助队伍）</strong></p>
-<ul>
-<li><strong>大桥</strong></li>
-<li><strong>孙策</strong></li>
-<li><strong>周瑜</strong></li>
-</ul>
-</li>
+<li>使用<mark>三个非主力武将</mark> 开垦城内1级、2级地完成<mark>主线任务</mark></li>
+<li>使用<strong>主力1队</strong>拉满<strong>自带战法等级10级</strong>，<mark>开3级地</mark>（<strong>开垦内城2升3</strong>）共计打<strong>5块3级地</strong>，<strong>1块4级地</strong>升至<strong>10级</strong>。</li>
 </ol>
-<h3 id="理想配置的执行" tabindex="-1"><a class="header-anchor" href="#理想配置的执行"><span>理想配置的执行</span></a></h3>
-<ul>
-<li>
-<p><strong>第一队桃园（刘关张）</strong></p>
-<ul>
-<li>永远进攻你能打的<strong>最高级土地</strong>，在高战损情况下仍保持核心战力。</li>
-<li>在20级时，将关羽替换为马超，以提高效率。</li>
-<li><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</li>
-</ul>
-</li>
-<li>
-<p><strong>第二队曹董袁</strong></p>
-<ul>
-<li>专注于开垦家中的<strong>5-6级土地</strong>，任务是有效利用体力和时间。</li>
-<li>因战力限制，可能不适合打7级以上的土地。</li>
-</ul>
-</li>
-<li>
-<p><strong>角色替换与策略</strong></p>
-<ul>
-<li><strong>6级地</strong>时，将关羽替换为马超，用<strong>刘张马</strong>过渡<strong>6级地</strong>和<strong>7级地</strong>。</li>
-<li><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</li>
-</ul>
-</li>
-</ul>
-<h2 id="初期布局-1字阵" tabindex="-1"><a class="header-anchor" href="#初期布局-1字阵"><span>初期布局（1字阵）</span></a></h2>
-<h3 id="开荒步骤" tabindex="-1"><a class="header-anchor" href="#开荒步骤"><span>开荒步骤</span></a></h3>
-<ol>
-<li><strong>打土地</strong>
-<ul>
-<li>使用<strong>5个3级士兵</strong>和<strong>1个4级士兵</strong>，快速升至<strong>10级</strong>。</li>
-</ul>
-</li>
-<li><strong>技能顺序</strong>
-<ul>
-<li>确保<strong>张飞</strong>的速度比<strong>关羽</strong>快1，以优化技能的先后顺序。</li>
-</ul>
-</li>
-</ol>
-<h2 id="升级与装备" tabindex="-1"><a class="header-anchor" href="#升级与装备"><span>升级与装备</span></a></h2>
-<h3 id="等级提升" tabindex="-1"><a class="header-anchor" href="#等级提升"><span>等级提升</span></a></h3>
-<ol>
-<li><strong>土地进攻</strong>
-<ul>
-<li><strong>打4级土地</strong>：持续打<strong>4级土地</strong>，直到<strong>12级</strong>。</li>
-<li><strong>打5级土地</strong>：升至<strong>12级</strong>后，开始进攻<strong>5级土地</strong>。</li>
-</ul>
-</li>
-<li><strong>装备提升</strong>
-<ul>
-<li>达到<strong>15级</strong>时，装备<strong>紫色装备</strong>，提升战斗力。</li>
-</ul>
-</li>
-</ol>
-<h2 id="中期发展" tabindex="-1"><a class="header-anchor" href="#中期发展"><span>中期发展</span></a></h2>
-<h3 id="土地占领" tabindex="-1"><a class="header-anchor" href="#土地占领"><span>土地占领</span></a></h3>
-<ul>
-<li>使用<strong>箕形阵</strong>，集中资源刷<strong>6级土地</strong>，快速提升至<strong>24级</strong>。</li>
-<li>开启兵营后，挑战<strong>7级土地</strong>。
-<ul>
-<li>优先解锁<strong>外城7级</strong>以便补刀。</li>
-<li>如果两支队伍中没有<strong>徐庶</strong>，通常<strong>24级</strong>有兵营都能打赢。</li>
-</ul>
-</li>
-</ul>
-<h3 id="稳妥发展" tabindex="-1"><a class="header-anchor" href="#稳妥发展"><span>稳妥发展</span></a></h3>
-<ul>
-<li>为稳妥发展，继续刷<strong>6级土地</strong>至<strong>25级</strong>，再挑战<strong>7级</strong>。</li>
-<li>持续刷<strong>7级土地</strong>至<strong>28级</strong>，再进攻<strong>8级土地</strong>。</li>
-</ul>
-<h2 id="后期进攻" tabindex="-1"><a class="header-anchor" href="#后期进攻"><span>后期进攻</span></a></h2>
-<h3 id="装备升级" tabindex="-1"><a class="header-anchor" href="#装备升级"><span>装备升级</span></a></h3>
-<ul>
-<li>达到<strong>30级</strong>时，装备<strong>金色装备</strong>，显著提升战斗力。</li>
-</ul>
-<h3 id="土地攻占" tabindex="-1"><a class="header-anchor" href="#土地攻占"><span>土地攻占</span></a></h3>
 <div class="hint-container info">
-<p class="hint-container-title">注意</p>
-<p><strong>8级地</strong>时，再将马超替换回关羽，确保战损最低。</p>
-</div>
+<p class="hint-container-title">此阶段主力1队推荐</p>
+<Tabs id="40" :data='[{"id":"刘关张"},{"id":"曹董袁"},{"id":"孙大圣"}]' :active="0" tab-id="主力1队">
+<template #title0="{ value, isActive }">刘备、张飞、关羽</template>
+<template #title1="{ value, isActive }">曹操、董卓、袁绍</template>
+<template #title2="{ value, isActive }">大乔、徐盛、孙策</template>
+<template #tab0="{ value, isActive }">
+<p><strong>拉满自带战法等级10级</strong></p>
 <ul>
-<li>进攻<strong>8级土地</strong>，稳步扩展领地。</li>
+<li>阵型： <strong>[一字阵]</strong></li>
 </ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>刘备</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>张飞</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>关羽</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+</tbody>
+</table>
+</template>
+<template #tab1="{ value, isActive }">
+<p><strong>拉满自带战法等级10级</strong></p>
+<ul>
+<li>阵型： <strong>[一字阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>曹操</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>董卓</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>袁绍</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</template>
+<template #tab2="{ value, isActive }">
+<p><strong>拉满自带战法等级10级</strong></p>
+<ul>
+<li>阵型： <strong>[一字阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>大乔</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>徐盛</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>孙策</strong></td>
+<td>无</td>
+<td>无</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</template>
+</Tabs>
+</div>
+<ol start="3">
+<li><strong>10级</strong>队伍可多携带一个<strong>战法</strong>，推荐<strong>阵容如下</strong>,继续<mark>开4级地</mark>（<strong>开垦内城3升4</strong>）直至等级到达<strong>13-14级</strong>。</li>
+</ol>
+<div class="hint-container info">
+<p class="hint-container-title">10级队伍推荐</p>
+<Tabs id="243" :data='[{"id":"刘关张"}]' tab-id="主力1队">
+<template #title0="{ value, isActive }">刘备、张飞、关羽</template>
+<template #tab0="{ value, isActive }">
+<ul>
+<li>阵型： <strong>[一字阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>刘备</strong></td>
+<td><strong>来好息师</strong></td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>张飞</strong></td>
+<td><strong>战八方</strong></td>
+<td>无</td>
+</tr>
+<tr>
+<td><strong>关羽</strong></td>
+<td><strong>水淹七军</strong></td>
+<td>无</td>
+</tr>
+</tbody>
+</table>
+</template>
+</Tabs>
+</div>
+<ol start="4">
+<li><strong>13-14</strong>级左右<mark>开5级地</mark>(<strong>开垦4升5</strong>)，优先选择<strong>守军沙摩柯队</strong>。</li>
+</ol>
+<figure><img src="/攻略/image-20240801215303836.png" alt="Alt" tabindex="0" loading="lazy"><figcaption>沙摩柯队</figcaption></figure>
+<ol start="5">
+<li>
+<p><strong>主力升至15级</strong>后可携带<strong>紫色装备与马匹</strong>，及时装备。</p>
+</li>
+<li>
+<p>将<strong>主力升至20级</strong> <mark>开6级地</mark>(<strong>开垦5升6</strong>)，挑<strong>全紫色队伍</strong>打即可。</p>
+</li>
+</ol>
+<div class="hint-container warning">
+<p class="hint-container-title">注意点</p>
+<ul>
+<li>
+<p>在开7级地之前，<strong>无需关注地的种类</strong>，只需要<strong>确保好打</strong>即可。</p>
+</li>
+<li>
+<p><strong>请勿触碰</strong>任何包含<strong>徐庶</strong>的地</p>
+</li>
+</ul>
+</div>
+<div class="hint-container info">
+<p class="hint-container-title">20级推荐阵容</p>
+<Tabs id="342" :data='[{"id":"刘关张"},{"id":"刘备、张飞、马超"},{"id":"刘备、董卓、袁绍"},{"id":"大乔、周瑜、孙策"}]' tab-id="推荐阵容">
+<template #title0="{ value, isActive }">刘备、张飞、关羽</template>
+<template #title1="{ value, isActive }">刘备、张飞、马超</template>
+<template #title2="{ value, isActive }">刘备、董卓、袁绍</template>
+<template #title3="{ value, isActive }">大乔、周瑜、孙策</template>
+<template #tab0="{ value, isActive }">
+<ul>
+<li>阵型： <strong>[箕形阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>刘备</strong></td>
+<td><strong>避其锐气</strong></td>
+<td><strong>青囊急救</strong></td>
+</tr>
+<tr>
+<td><strong>张飞</strong></td>
+<td><strong>威名显赫</strong></td>
+<td><strong>斩将夺旗</strong></td>
+</tr>
+<tr>
+<td><strong>关羽</strong></td>
+<td><strong>战八方</strong></td>
+<td><strong>水淹七军</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>注意</strong>:
+<ul>
+<li><strong>速度</strong>: <strong>关羽</strong>&gt;<strong>张飞</strong></li>
+</ul>
+</li>
+</ul>
+</template>
+<template #tab1="{ value, isActive }">
+<ul>
+<li>阵型： <strong>[箕形阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>刘备</strong></td>
+<td><strong>避其锐气</strong></td>
+<td><strong>青囊急救</strong></td>
+</tr>
+<tr>
+<td><strong>张飞</strong></td>
+<td><strong>指点乾坤</strong></td>
+<td><strong>水淹七军</strong></td>
+</tr>
+<tr>
+<td><strong>马超</strong></td>
+<td><strong>摧坚克难</strong></td>
+<td><strong>势如破竹</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>注意</strong>:
+<ul>
+<li><strong>武力: 张飞&lt;马超</strong></li>
+<li><strong>速度: 张飞&gt;马超</strong></li>
+</ul>
+</li>
+</ul>
+</template>
+<template #tab2="{ value, isActive }">
+<ul>
+<li>阵型： <strong>[箕形阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>刘备</strong></td>
+<td><strong>清风驱疾</strong></td>
+<td><strong>指点乾坤</strong></td>
+</tr>
+<tr>
+<td><strong>董卓</strong></td>
+<td><strong>胜敌益强</strong></td>
+<td><strong>文武双全</strong></td>
+</tr>
+<tr>
+<td><strong>袁绍</strong></td>
+<td><strong>避其锐气</strong></td>
+<td><strong>铸甲销戈</strong></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</template>
+<template #tab3="{ value, isActive }">
+<ul>
+<li>阵型： <strong>[箕形阵]</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>武将名</th>
+<th>战法1</th>
+<th>战法2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>大乔</strong></td>
+<td><strong>避其锐气</strong></td>
+<td><strong>清风驱疾</strong></td>
+</tr>
+<tr>
+<td><strong>周瑜</strong></td>
+<td><strong>烈火焚营</strong></td>
+<td><strong>谈笑诛心</strong></td>
+</tr>
+<tr>
+<td><strong>孙策</strong></td>
+<td><strong>威名显赫</strong></td>
+<td><strong>水淹七军</strong></td>
+</tr>
+</tbody>
+</table>
+</template>
+</Tabs>
+</div>
+<ol>
+<li><strong>主力</strong>升至<strong>25级</strong>开启<strong>韬略1</strong>，<strong>兵营升至3级</strong>开<strong>7级地</strong>，优先选择<strong>甄洛、程普队</strong>。</li>
+</ol>
+<p><img src="/攻略/image-20240801220633828.png" alt="Alt" title="甄洛" loading="lazy"> <img src="/攻略/image-20240801220645563.png" alt="Alt" title="程普" loading="lazy"></p>
+<ol start="8">
+<li>
+<p><strong>主力</strong>升至<strong>30级</strong>开启<strong>韬略2</strong>携带<strong>金色装备马匹</strong>，开<strong>8级地</strong>，优先选择<strong>张飞、张郃、邓艾队</strong>。
+<img src="/攻略/image-20240801220807476.png" alt="Alt" title="张飞" loading="lazy">
+<img src="/攻略/image-20240801220821527.png" alt="Alt" loading="lazy">
+<img src="/攻略/image-20240801220833561.png" alt="Alt" loading="lazy"></p>
+</li>
+<li>
+<p><strong>主力</strong>升至<strong>35级</strong>开启<strong>韬略3</strong>，开<strong>9级地</strong>，优先选择<strong>甘宁、张飞队</strong>。</p>
+</li>
+</ol>
+<p><img src="/攻略/image-20240801220949283.png" alt="Alt" loading="lazy"> <img src="/攻略/image-20240801220956042.png" alt="Alt" loading="lazy"></p>
 <h2 id="其他建议" tabindex="-1"><a class="header-anchor" href="#其他建议"><span>其他建议</span></a></h2>
 <ul>
-<li>确保<strong>兵营建设</strong>，以便在需要时能迅速补充兵力。</li>
-<li>挑战<strong>7级土地</strong>时，注意兵种配置，确保对方不是<strong>徐庶</strong>，以免遭遇较大损失。</li>
+<li>
+<p>确保<strong>兵营建设</strong>。</p>
+</li>
+<li>
+<p>挑战<strong>7级土地</strong>时，注意兵种配置，确保对方不是<strong>徐庶</strong>，以免遭遇较大损失。</p>
+</li>
+<li>
+<p><strong>切记31级前吃完鸡腿！！！切记31级前吃完鸡腿！！！切记31级前吃完鸡腿！！！切记31级前吃完鸡腿！！！切记31级前吃完鸡腿！！！</strong></p>
+</li>
+<li>
+<p>无任何体力时，<strong>请勿闲置主力</strong>，可进行铺路,为后续高等级土地的占领铺垫</p>
+</li>
 </ul>
 </div></template>
 
