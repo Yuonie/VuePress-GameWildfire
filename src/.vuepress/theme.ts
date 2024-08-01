@@ -1,8 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
-
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import {notice} from './bulletin.js'
+import { notice } from "./bulletin.js";
 
 export default hopeTheme({
   author: {
@@ -13,14 +12,13 @@ export default hopeTheme({
   fullscreen: true, //全屏
   iconAssets: "fontawesome",
 
-
   docsDir: "src",
   // 导航栏
   navbar,
   // 导航栏布局
   navbarLayout: {
     start: ["Brand"],
-    end: ["Outlook","Search","Links"],
+    end: ["Outlook", "Search", "Links"],
   },
   // 侧边栏
   sidebar,
@@ -49,8 +47,24 @@ export default hopeTheme({
   plugins: {
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     searchPro: true,
+    comment: {
+      // 选择一个评论服务
+      provider: "Giscus",
+      repo:"Yuonie/GameComment",
+      repoId:"R_kgDOMd4uVQ",
+      category:"General",
+      categoryId:"DIC_kwDOMd4uVc4ChVTr",
+      lazyLoading:true,
+      reactionsEnabled:true,
+      // provider: "Wailne"
+      // serverURL:"https://fasmqnnl.api.lncldglobal.com",
+      // login:"disable",
+
+
+
+    },
     components: {
-      components: ["Badge", "VPCard","PDF","BiliBili"],
+      components: ["Badge", "VPCard", "PDF", "BiliBili"],
     },
     notice,
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。

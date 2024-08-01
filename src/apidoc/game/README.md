@@ -2,7 +2,7 @@
 title: S2开荒节奏-网上攻略
 index: true
 order: 2
-comment: false
+comment: true
 icon: gamepad
 
 ---

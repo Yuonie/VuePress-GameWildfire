@@ -1,7 +1,7 @@
 ---
 title: 燎原火同盟盟规V1.0
 index: true
-comment: false
+comment: true
 icon: file
 tags:
  - 免责声明
