@@ -21,6 +21,7 @@ export default sidebar({
           prefix: "game/",
           children: [
             "README.md",
+            "file1.md",
           ],
         },
         // {

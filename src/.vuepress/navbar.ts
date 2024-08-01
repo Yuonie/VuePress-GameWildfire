@@ -10,6 +10,7 @@ export default navbar([
   {
     text: "游戏攻略",
     icon: "gamepad",
-    link: "/apidoc/game/",
+    prefix: "/apidoc/game/",
+    children: ["file1.md","ReadME.md"],
   },
 ]);

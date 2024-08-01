@@ -1,0 +1,162 @@
+<template><div><div class="hint-container info">
+<p class="hint-container-title">声明</p>
+<p>热心大神 <img src="/base/shqy.png" alt="Alt" title="热心大神" loading="lazy">提供的<strong>无需红度的稳扎稳打攻略</strong>，如有异议，别杠那就是你说得对😒。</p>
+</div>
+<h1 id="开荒细节" tabindex="-1"><a class="header-anchor" href="#开荒细节"><span>开荒细节</span></a></h1>
+<h2 id="队伍配置" tabindex="-1"><a class="header-anchor" href="#队伍配置"><span>队伍配置</span></a></h2>
+<h3 id="第一队-核心队伍" tabindex="-1"><a class="header-anchor" href="#第一队-核心队伍"><span>第一队（核心队伍）</span></a></h3>
+<ul>
+<li>
+<p><strong>阵容选择</strong></p>
+<ul>
+<li><strong>刘备</strong>
+<ul>
+<li>技能：<strong>好息师</strong></li>
+</ul>
+</li>
+<li><strong>张飞</strong>
+<ul>
+<li>技能：<strong>战八方</strong></li>
+</ul>
+</li>
+<li><strong>关羽</strong>
+<ul>
+<li>技能：<strong>水淹七军</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>角色替换</strong></p>
+<ul>
+<li>达到<strong>20级</strong>时，将<strong>关羽</strong>替换为<strong>马超</strong>，以提高整体战斗效率。</li>
+</ul>
+</li>
+<li>
+<p><strong>技能配置（替换后）</strong></p>
+<ul>
+<li><strong>刘备</strong>
+<ul>
+<li><strong>避其锐气</strong></li>
+<li><strong>披坚执锐</strong></li>
+</ul>
+</li>
+<li><strong>张飞</strong>
+<ul>
+<li><strong>水淹七军</strong></li>
+<li><strong>指点乾坤</strong></li>
+</ul>
+</li>
+<li><strong>马超</strong>
+<ul>
+<li><strong>摧坚克难</strong></li>
+<li><strong>势如破竹</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>任务</strong></p>
+<ul>
+<li>永远进攻你能打的<strong>最高级土地</strong>。</li>
+</ul>
+</li>
+</ul>
+<h3 id="第二队-发展队伍" tabindex="-1"><a class="header-anchor" href="#第二队-发展队伍"><span>第二队（发展队伍）</span></a></h3>
+<ul>
+<li>
+<p><strong>阵容选择</strong></p>
+<ul>
+<li><strong>曹操</strong></li>
+<li><strong>袁绍</strong></li>
+<li><strong>董卓</strong></li>
+</ul>
+</li>
+<li>
+<p><strong>任务</strong></p>
+<ul>
+<li>专注于开垦家中的<strong>5-6级土地</strong>。</li>
+<li>在后期，兵营建成后，可以挑战<strong>7级土地</strong>。</li>
+</ul>
+</li>
+</ul>
+<h3 id="第三队-辅助队伍" tabindex="-1"><a class="header-anchor" href="#第三队-辅助队伍"><span>第三队（辅助队伍）</span></a></h3>
+<ul>
+<li>
+<p><strong>阵容选择</strong></p>
+<ul>
+<li><strong>大桥</strong></li>
+<li><strong>孙策</strong></li>
+<li><strong>周瑜</strong></li>
+</ul>
+</li>
+<li>
+<p><strong>任务</strong></p>
+<ul>
+<li>专注于开垦家中的<strong>1-5级土地</strong>。</li>
+</ul>
+</li>
+</ul>
+<h2 id="初期布局-1字阵" tabindex="-1"><a class="header-anchor" href="#初期布局-1字阵"><span>初期布局（1字阵）</span></a></h2>
+<h3 id="开荒步骤" tabindex="-1"><a class="header-anchor" href="#开荒步骤"><span>开荒步骤</span></a></h3>
+<ol>
+<li><strong>打土地</strong>
+<ul>
+<li>使用<strong>5个3级土地</strong>和<strong>1个4级土地</strong>，快速升至<strong>10级</strong>。</li>
+</ul>
+</li>
+<li><strong>技能顺序</strong>
+<ul>
+<li>确保<strong>张飞</strong>的速度比<strong>关羽</strong>快1，以优化技能的先后顺序。</li>
+</ul>
+</li>
+</ol>
+<h2 id="升级与装备" tabindex="-1"><a class="header-anchor" href="#升级与装备"><span>升级与装备</span></a></h2>
+<h3 id="等级提升" tabindex="-1"><a class="header-anchor" href="#等级提升"><span>等级提升</span></a></h3>
+<ol>
+<li><strong>土地进攻</strong>
+<ul>
+<li><strong>打4级土地</strong>：持续打<strong>4级土地</strong>，直到<strong>12级</strong>。</li>
+<li><strong>打5级土地</strong>：升至<strong>12级</strong>后，开始进攻<strong>5级土地</strong>。</li>
+</ul>
+</li>
+<li><strong>装备提升</strong>
+<ul>
+<li>达到<strong>15级</strong>时，装备<strong>紫色装备</strong>，提升战斗力。</li>
+</ul>
+</li>
+</ol>
+<h2 id="中期发展" tabindex="-1"><a class="header-anchor" href="#中期发展"><span>中期发展</span></a></h2>
+<h3 id="土地占领" tabindex="-1"><a class="header-anchor" href="#土地占领"><span>土地占领</span></a></h3>
+<ul>
+<li>使用<strong>箕形阵</strong>，集中资源刷<strong>6级土地</strong>，快速提升至<strong>24级</strong>。</li>
+<li>开启兵营后，挑战<strong>7级土地</strong>。
+<ul>
+<li>优先解锁<strong>外城7级</strong>以便补刀。</li>
+<li>如果敌方两支队伍中没有<strong>徐庶</strong>，通常<strong>24级</strong>有兵营都能打赢。</li>
+</ul>
+</li>
+</ul>
+<h3 id="稳妥发展" tabindex="-1"><a class="header-anchor" href="#稳妥发展"><span>稳妥发展</span></a></h3>
+<ul>
+<li>为稳妥发展，继续刷<strong>6级土地</strong>至<strong>25级</strong>，再挑战<strong>7级</strong>。</li>
+<li>持续刷<strong>7级土地</strong>至<strong>28级</strong>，再进攻<strong>8级土地</strong>。</li>
+</ul>
+<h2 id="后期进攻" tabindex="-1"><a class="header-anchor" href="#后期进攻"><span>后期进攻</span></a></h2>
+<h3 id="装备升级" tabindex="-1"><a class="header-anchor" href="#装备升级"><span>装备升级</span></a></h3>
+<ul>
+<li>达到<strong>30级</strong>时，装备<strong>金色装备</strong>，显著提升战斗力。</li>
+</ul>
+<h3 id="土地攻占" tabindex="-1"><a class="header-anchor" href="#土地攻占"><span>土地攻占</span></a></h3>
+<ul>
+<li>进攻<strong>8级土地</strong>，稳步扩展领地。</li>
+</ul>
+<h2 id="其他建议" tabindex="-1"><a class="header-anchor" href="#其他建议"><span>其他建议</span></a></h2>
+<h3 id="兵营策略" tabindex="-1"><a class="header-anchor" href="#兵营策略"><span>兵营策略</span></a></h3>
+<ul>
+<li>确保<strong>兵营建设</strong>，以便在需要时能迅速补充兵力。</li>
+<li>挑战<strong>7级土地</strong>时，注意兵种配置，确保对方不是<strong>徐庶</strong>，以免遭遇较大损失。</li>
+</ul>
+</div></template>
+
+
