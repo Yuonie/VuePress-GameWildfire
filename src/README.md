@@ -17,9 +17,9 @@ actions:
     link: ./apidoc/rule1
     type: primary
 
-  - text: S2开荒攻略
+  - text: 内部开荒攻略
     icon: gamepad
-    link: ./apidoc/game/
+    link: ./apidoc/game/file1
 
 copyright: false
 footer: MIT Licensed, Copyright © 2019-present Mr.Hope
