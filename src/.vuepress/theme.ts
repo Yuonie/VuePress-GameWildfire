@@ -49,7 +49,9 @@ export default hopeTheme({
     searchPro: true,
     comment: {
       provider: "Waline",
-      serverURL: "http://firewaline.yuonie.com",
+      serverURL: "https://waline-test-yuonies-projects.vercel.app",
+      wordLimit:100,
+
     },
     // comment: {
     //   // 选择一个评论服务

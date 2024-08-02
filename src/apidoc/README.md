@@ -1,7 +1,7 @@
 ---
 title: 免责声明
 index: false
-comment: true
+comment: false
 icon: circle-info
 tags:
   - 免责声明
