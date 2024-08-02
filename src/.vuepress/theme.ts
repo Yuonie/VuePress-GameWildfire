@@ -49,6 +49,7 @@ export default hopeTheme({
     searchPro: true,
     comment: {
       provider: "Waline",
+      login:"force",
       serverURL: "https://waline-test-yuonies-projects.vercel.app",
       wordLimit:100,
 
