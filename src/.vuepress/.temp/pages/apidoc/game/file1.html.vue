@@ -336,8 +336,8 @@
 </template>
 </Tabs>
 </div>
-<ol>
-<li><strong>主力</strong>升至<strong>25级</strong>开启<strong>韬略1</strong>，<strong>兵营升至3级</strong>开<strong>7级地</strong>，优先选择<strong>甄洛、程普队</strong>。</li>
+<ol start="7">
+<li><strong>主力</strong>升至<strong>25级</strong>开启<strong>韬略1</strong>，<strong>兵营升至4级</strong>开<strong>7级地</strong>，优先选择<strong>甄洛、程普队</strong>。</li>
 </ol>
 <p><img src="/攻略/image-20240801220633828.png" alt="Alt" title="甄洛" loading="lazy"> <img src="/攻略/image-20240801220645563.png" alt="Alt" title="程普" loading="lazy"></p>
 <ol start="8">
