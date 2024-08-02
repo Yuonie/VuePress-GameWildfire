@@ -50,7 +50,7 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       login:"force",
-      serverURL: "https://waline-test-yuonies-projects.vercel.app",
+      serverURL: "https://firewaline.yuonie.com/",
       wordLimit:100,
 
     },
