@@ -1,7 +1,7 @@
 <template><div><p><RouteLink to="/apidoc/">免责声明</RouteLink></p>
 <div class="hint-container info">
 <p class="hint-container-title">请盟友认真阅读</p>
-<p>我们 S2 的新盟将会是个人色彩极强的一个盟。我们在S2可能很难像S1一样拿到大量的霸业名额，可能最后大家就10个名额甚至是全员逐鹿。但我们想要玩心，打出风采，成为赛区中一支不可被忽视的势力，能够搅动赛区局势，成为<strong>燎原之火✨</strong></p>
+<p>我们 S2 的新盟将会是个人色彩极强的一个盟。我们在S2可能很难像S1一样拿到大量的霸业名额，可能最后大家就10个名额甚至是全员逐鹿。但我们想要<strong>玩的开心，打出风采</strong>，成为赛区中一支不可被忽视的势力，能够搅动赛区局势，成为<strong>燎原之火✨</strong></p>
 <ul>
 <li><strong>战队编号</strong>：<strong>10146066874</strong>  （请第一时间加入战队）</li>
 <li><strong>盟规以及S2成员名称文档</strong> 请盟友优先阅读并及时操作

@@ -48,21 +48,23 @@ export default hopeTheme({
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     searchPro: true,
     comment: {
-      // 选择一个评论服务
-      provider: "Giscus",
-      repo:"Yuonie/GameComment",
-      repoId:"R_kgDOMd4uVQ",
-      category:"General",
-      categoryId:"DIC_kwDOMd4uVc4ChVTr",
-      lazyLoading:true,
-      reactionsEnabled:true,
-      // provider: "Wailne"
-      // serverURL:"https://fasmqnnl.api.lncldglobal.com",
-      // login:"disable",
-
-
-
+      provider: "Waline",
+      serverURL: "http://firewaline.yuonie.com",
     },
+    // comment: {
+    //   // 选择一个评论服务
+    //   provider: "Giscus",
+    //   repo:"Yuonie/GameComment",
+    //   repoId:"R_kgDOMd4uVQ",
+    //   category:"General",
+    //   categoryId:"DIC_kwDOMd4uVc4ChVTr",
+    //   lazyLoading:true,
+    //   reactionsEnabled:true,
+    //   // provider: "Wailne"
+    //   // serverURL:"https://fasmqnnl.api.lncldglobal.com",
+    //   // login:"disable",
+
+    // },
     components: {
       components: ["Badge", "VPCard", "PDF", "BiliBili"],
     },
