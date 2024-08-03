@@ -49,7 +49,7 @@ export default hopeTheme({
     searchPro: true,
     comment: {
       provider: "Waline",
-      login:"force",
+      login:"enable",
       serverURL: "https://firewaline.yuonie.com/",
       wordLimit:100,
 

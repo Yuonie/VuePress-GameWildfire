@@ -210,7 +210,7 @@
 <tr>
 <td><strong>刘备</strong></td>
 <td><strong>避其锐气</strong></td>
-<td><strong>青囊急救</strong></td>
+<td><strong>披坚执锐</strong></td>
 </tr>
 <tr>
 <td><strong>张飞</strong></td>
@@ -248,7 +248,7 @@
 <tr>
 <td><strong>刘备</strong></td>
 <td><strong>避其锐气</strong></td>
-<td><strong>青囊急救</strong></td>
+<td><strong>披坚执锐</strong></td>
 </tr>
 <tr>
 <td><strong>张飞</strong></td>
