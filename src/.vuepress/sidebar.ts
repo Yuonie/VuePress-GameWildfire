@@ -19,9 +19,28 @@ export default sidebar({
           text: "游戏攻略",
           icon: "laptop-code",
           prefix: "game/",
+          expanded:true,
+          collapsible:true,
           children: [
-            "README.md",
-            "file1.md",
+            {
+             text:"S2开荒指南",
+             icon:"gamepad",
+             expanded:true,
+             collapsible:true,
+             children:[
+              "README.md",
+              "file1.md",
+             ]
+            },
+            {
+              text:"S2阵容推荐",
+              icon:"cloud",
+              expanded:true,
+              collapsible:true,
+              children:[
+                "file2.md",
+               ]
+            }
           ],
         },
         // {

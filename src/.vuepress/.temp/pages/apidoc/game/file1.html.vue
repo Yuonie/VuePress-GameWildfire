@@ -1,6 +1,6 @@
 <template><div><div class="hint-container info">
 <p class="hint-container-title">声明</p>
-<p>热心大神 <img src="/base/shqy.png" alt="Alt" title="热心大神" loading="lazy">提供的<strong>无需红度的稳扎稳打攻略</strong>，如有异议，别杠那就是你说得对😒。</p>
+<p>热心大神 <img src="/base/shqy.png" alt="Alt" title="乌萨奇" loading="lazy">提供的<strong>无需红度的稳扎稳打攻略</strong>，如有异议，别杠那就是你说得对😒。</p>
 </div>
 <div class="hint-container tip">
 <p class="hint-container-title">前言</p>

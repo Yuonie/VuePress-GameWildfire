@@ -6,6 +6,7 @@ export const routes = Object.fromEntries([
   ["/apidoc/rule1.html", { loader: () => import(/* webpackChunkName: "apidoc_rule1.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/apidoc/rule1.html.js"), meta: {"t":"燎原火同盟盟规V1.0","i":"file"} }],
   ["/apidoc/rule2.html", { loader: () => import(/* webpackChunkName: "apidoc_rule2.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/apidoc/rule2.html.js"), meta: {"t":"燎原火官员职能公示","i":"gear","O":2} }],
   ["/apidoc/game/file1.html", { loader: () => import(/* webpackChunkName: "apidoc_game_file1.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/apidoc/game/file1.html.js"), meta: {"t":"S2开荒节奏-内部攻略","i":"gamepad","O":2} }],
+  ["/apidoc/game/file2.html", { loader: () => import(/* webpackChunkName: "apidoc_game_file2.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/apidoc/game/file2.html.js"), meta: {"t":"S2黑马阵容推荐","i":"store","O":3} }],
   ["/apidoc/game/", { loader: () => import(/* webpackChunkName: "apidoc_game_index.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/apidoc/game/index.html.js"), meta: {"t":"S2开荒节奏-网上攻略","i":"gamepad"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"C:/MyWork/Github/VuePress-GameWildfire/src/.vuepress/.temp/pages/404.html.js"), meta: {"t":""} }],
 ]);
