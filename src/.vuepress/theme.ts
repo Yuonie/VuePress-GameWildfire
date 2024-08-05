@@ -5,7 +5,7 @@ import { notice } from "./bulletin.js";
 
 export default hopeTheme({
   author: {
-    name: "燎原火🔥",
+    name: "燎原冰阔落",
   },
   darkmode: "toggle",
   print: false, //返回顶部按钮

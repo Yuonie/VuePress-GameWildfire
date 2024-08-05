@@ -48,7 +48,7 @@ export const notice = [
       </ul>
       </li>
     </ul>
-    <li><a href="/apidoc/game/file2"><strong>S2黑马阵容推荐</strong></a></li>
+    <li><a href="/apidoc/game/file2.html"><strong>S2黑马阵容推荐</strong></a></li>
     </ul>
 </div>
 `,
