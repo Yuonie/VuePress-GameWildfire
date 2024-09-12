@@ -1,2 +1,1 @@
-# VuePress-ApIDocs
-api文档
+VuePress 游戏帮会文档
